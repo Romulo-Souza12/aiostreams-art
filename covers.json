@@ -1,0 +1,140 @@
+{
+  "covers": [
+    {
+      "file": "netflix/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON NETFLIX TODAY",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "flixpatrol.netflix.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.netflix.us.movie"
+        }
+      ]
+    },
+    {
+      "file": "netflix/originals.jpg",
+      "title": "ORIGINALS",
+      "subtitle": "ONLY ON NETFLIX",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.160018"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.160016"
+        }
+      ]
+    },
+    {
+      "file": "netflix/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "netflix/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "netflix/horror.jpg",
+      "title": "HORROR",
+      "subtitle": "CHILLING TERROR & DREAD",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Horror",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158623",
+          "genre": "Horror",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "netflix/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        229,
+        9,
+        20
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_netflix_8_0.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "netflix/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "id": "tt38515310",
+    "name": "A Dog's Perfect Christmas",
+    "type": "movie"
+  },
+  "netflix/drama.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
+    "id": "tt8014982",
+    "name": "The Body (2026)",
+    "type": "series"
+  },
+  "netflix/horror.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+    "id": "tt10548174",
+    "name": "28 Years Later",
+    "type": "movie"
+  },
+  "netflix/originals.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/441315/backgrounds/674a099d87448.jpg",
+    "id": "tt27995113",
+    "name": "Black Doves",
+    "type": "series"
+  },
+  "netflix/sci-fi.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "id": "tt23289160",
+    "name": "Godzilla Minus One",
+    "type": "movie"
+  },
+  "netflix/top-10.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/482731/backgrounds/6adab9f819c48.jpg",
+    "id": "tt43681696",
+    "name": "Taken: Natalee Holloway",
+    "type": "series"
+  }
+}
