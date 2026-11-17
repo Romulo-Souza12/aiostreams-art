@@ -6,15 +6,15 @@
     "type": "movie"
   },
   "netflix/drama.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
-    "id": "tt8014982",
-    "name": "The Body (2026)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/431162/backgrounds/677ed0320e43e.jpg",
+    "id": "tt26743760",
+    "name": "The Apothecary Diaries",
     "type": "series"
   },
   "netflix/horror.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-    "id": "tt10548174",
-    "name": "28 Years Later",
+    "background": "https://image.tmdb.org/t/p/original/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+    "id": "tt32268156",
+    "name": "The Last House",
     "type": "movie"
   },
   "netflix/originals.jpg": {
@@ -30,9 +30,9 @@
     "type": "movie"
   },
   "netflix/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/482731/backgrounds/6adab9f819c48.jpg",
-    "id": "tt43681696",
-    "name": "Taken: Natalee Holloway",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
+    "id": "tt8014982",
+    "name": "The Body (2026)",
     "type": "series"
   }
 }
