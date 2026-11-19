@@ -1,8 +1,8 @@
 {
   "netflix/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-    "id": "tt38515310",
-    "name": "A Dog's Perfect Christmas",
+    "background": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "id": "tt6611324",
+    "name": "Guarding Stars",
     "type": "movie"
   },
   "netflix/drama.jpg": {
@@ -12,9 +12,9 @@
     "type": "series"
   },
   "netflix/horror.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-    "id": "tt10548174",
-    "name": "28 Years Later",
+    "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "id": "tt37287335",
+    "name": "Obsession",
     "type": "movie"
   },
   "netflix/originals.jpg": {
