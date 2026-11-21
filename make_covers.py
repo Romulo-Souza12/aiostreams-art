@@ -47,7 +47,8 @@ def candidates(addon, src, limit=25):
         path += "/genre=" + urllib.parse.quote(src["genre"], safe="")
     metas = get_json(path + ".json").get("metas", [])[:limit]
     for m in metas:
-        yield src["type"], m
+        # "all" catalogs (e.g. a combined Top 10) mix movies and shows; each entry carries its own type.
+        yield (m.get("type") or src["type"]) if src["type"] == "all" else src["type"], m
 
 
 def backdrop(addon, typ, meta):

@@ -135,6 +135,968 @@
           "primary": true
         }
       ]
+    },
+    {
+      "file": "disney/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON DISNEY+ TODAY",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.disney.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.disney.us.series"
+        }
+      ]
+    },
+    {
+      "file": "disney/originals.jpg",
+      "title": "ORIGINALS",
+      "subtitle": "ONLY ON DISNEY+",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.160029"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.160024"
+        }
+      ]
+    },
+    {
+      "file": "disney/animation.jpg",
+      "title": "ANIMATION",
+      "subtitle": "ANIMATED ADVENTURES FOR EVERYONE",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_disney_337_2.mwhpmdno",
+          "genre": "Animation",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_disney_337_2.mwhpmdno",
+          "genre": "Animation",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "disney/family.jpg",
+      "title": "FAMILY",
+      "subtitle": "FUN FOR THE WHOLE FAMILY",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_disney_337_2.mwhpmdno",
+          "genre": "Family",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_disney_337_2.mwhpmdno",
+          "genre": "Family",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "disney/action.jpg",
+      "title": "ACTION",
+      "subtitle": "EXPLOSIVE THRILLS & EPIC QUESTS",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_disney_337_2.mwhpmdno",
+          "genre": "Action",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_disney_337_2.mwhpmdno",
+          "genre": "Action & Adventure",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "disney/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        17,
+        120,
+        232
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_disney_337_2.mwhpmdno",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_disney_337_2.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "appletv/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON APPLE TV TODAY",
+      "accent": [
+        235,
+        235,
+        240
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.apple-tv.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.apple-tv.us.series"
+        }
+      ]
+    },
+    {
+      "file": "appletv/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        235,
+        235,
+        240
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "appletv/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        235,
+        235,
+        240
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "appletv/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        235,
+        235,
+        240
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_apple_tv_350_4.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "prime/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON PRIME VIDEO TODAY",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.amazon-prime.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.amazon-prime.us.series"
+        }
+      ]
+    },
+    {
+      "file": "prime/originals.jpg",
+      "title": "ORIGINALS",
+      "subtitle": "ONLY ON PRIME VIDEO",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.160034"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.160032"
+        }
+      ]
+    },
+    {
+      "file": "prime/action.jpg",
+      "title": "ACTION",
+      "subtitle": "EXPLOSIVE THRILLS & EPIC QUESTS",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Action",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Action & Adventure",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "prime/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "prime/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "prime/horror.jpg",
+      "title": "HORROR",
+      "subtitle": "CHILLING TERROR & DREAD",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Horror",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "prime/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        0,
+        168,
+        225
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_prime_video_9_3.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hbomax/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON HBO MAX TODAY",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.hbo-max.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.hbo-max.us.series"
+        }
+      ]
+    },
+    {
+      "file": "hbomax/originals.jpg",
+      "title": "ORIGINALS",
+      "subtitle": "ONLY ON HBO MAX",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.160036"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.160035"
+        }
+      ]
+    },
+    {
+      "file": "hbomax/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hbomax/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hbomax/horror.jpg",
+      "title": "HORROR",
+      "subtitle": "CHILLING TERROR & DREAD",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Horror",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hbomax/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        153,
+        41,
+        234
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_hbo_max_1899_1.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "paramount/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON PARAMOUNT+ TODAY",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.paramount.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.paramount.us.series"
+        }
+      ]
+    },
+    {
+      "file": "paramount/originals.jpg",
+      "title": "ORIGINALS",
+      "subtitle": "ONLY ON PARAMOUNT+",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.160039"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.160038"
+        }
+      ]
+    },
+    {
+      "file": "paramount/action.jpg",
+      "title": "ACTION",
+      "subtitle": "EXPLOSIVE THRILLS & EPIC QUESTS",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pmp",
+          "genre": "Action",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pmp",
+          "genre": "Action & Adventure",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "paramount/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pmp",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pmp",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "paramount/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pmp",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pmp",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "paramount/sci-fi.jpg",
+      "title": "SCI-FI",
+      "subtitle": "FUTURISTIC WORLDS & SPACE SAGAS",
+      "accent": [
+        0,
+        100,
+        255
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pmp",
+          "genre": "Science Fiction",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pmp",
+          "genre": "Sci-Fi & Fantasy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hulu/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON HULU TODAY",
+      "accent": [
+        28,
+        231,
+        131
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.hulu.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.hulu.us.series"
+        }
+      ]
+    },
+    {
+      "file": "hulu/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        28,
+        231,
+        131
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.hlu",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.hlu",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hulu/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        28,
+        231,
+        131
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.hlu",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.hlu",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hulu/horror.jpg",
+      "title": "HORROR",
+      "subtitle": "CHILLING TERROR & DREAD",
+      "accent": [
+        28,
+        231,
+        131
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.hlu",
+          "genre": "Horror",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "hulu/animation.jpg",
+      "title": "ANIMATION",
+      "subtitle": "ANIMATED ADVENTURES FOR EVERYONE",
+      "accent": [
+        28,
+        231,
+        131
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.hlu",
+          "genre": "Animation",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.hlu",
+          "genre": "Animation",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "peacock/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON PEACOCK TODAY",
+      "accent": [
+        255,
+        190,
+        0
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "flixpatrol.peacock.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "flixpatrol.peacock.us.series"
+        }
+      ]
+    },
+    {
+      "file": "peacock/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        255,
+        190,
+        0
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pcp",
+          "genre": "Comedy",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pcp",
+          "genre": "Comedy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "peacock/drama.jpg",
+      "title": "DRAMA",
+      "subtitle": "POWERHOUSE PERFORMANCES",
+      "accent": [
+        255,
+        190,
+        0
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pcp",
+          "genre": "Drama",
+          "primary": true
+        },
+        {
+          "type": "series",
+          "id": "streaming.pcp",
+          "genre": "Drama",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "peacock/horror.jpg",
+      "title": "HORROR",
+      "subtitle": "CHILLING TERROR & DREAD",
+      "accent": [
+        255,
+        190,
+        0
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "streaming.pcp",
+          "genre": "Horror",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "peacock/crime.jpg",
+      "title": "CRIME",
+      "subtitle": "CASES, COPS & CRIMINAL MINDS",
+      "accent": [
+        255,
+        190,
+        0
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "streaming.pcp",
+          "genre": "Crime",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON CRUNCHYROLL TODAY",
+      "accent": [
+        244,
+        117,
+        33
+      ],
+      "sources": [
+        {
+          "type": "all",
+          "id": "flixpatrol.crunchyroll.us.all"
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll/action.jpg",
+      "title": "ACTION",
+      "subtitle": "EXPLOSIVE THRILLS & EPIC QUESTS",
+      "accent": [
+        244,
+        117,
+        33
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_crunchyroll_283_5.mwhpmdno",
+          "genre": "Action & Adventure"
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll/comedy.jpg",
+      "title": "COMEDY",
+      "subtitle": "LAUGH-OUT-LOUD FAVORITES",
+      "accent": [
+        244,
+        117,
+        33
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_crunchyroll_283_5.mwhpmdno",
+          "genre": "Comedy"
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll/fantasy.jpg",
+      "title": "FANTASY",
+      "subtitle": "MAGIC, MONSTERS & OTHER WORLDS",
+      "accent": [
+        244,
+        117,
+        33
+      ],
+      "sources": [
+        {
+          "type": "series",
+          "id": "tmdb.discover.series.streaming_crunchyroll_283_5.mwhpmdno",
+          "genre": "Sci-Fi & Fantasy"
+        }
+      ]
+    },
+    {
+      "file": "crunchyroll/anime-movies.jpg",
+      "title": "ANIME MOVIES",
+      "subtitle": "FEATURE-LENGTH ANIME",
+      "accent": [
+        244,
+        117,
+        33
+      ],
+      "sources": [
+        {
+          "type": "movie",
+          "id": "tmdb.discover.movie.streaming_crunchyroll_283_5.mwhpmdno",
+          "genre": "Animation"
+        }
+      ]
+    },
+    {
+      "file": "shudder/top-10.jpg",
+      "title": "TOP 10",
+      "subtitle": "MOST WATCHED ON SHUDDER TODAY",
+      "accent": [
+        220,
+        20,
+        20
+      ],
+      "sources": [
+        {
+          "type": "all",
+          "id": "flixpatrol.shudder.us.all"
+        }
+      ]
     }
   ],
   "heroes": [
@@ -166,6 +1128,14 @@
       "file": "heroes/disney.jpg",
       "sources": [
         {
+          "type": "series",
+          "id": "flixpatrol.disney.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.disney.us.movie"
+        },
+        {
           "type": "movie",
           "id": "mdblist.158635"
         },
@@ -183,6 +1153,14 @@
       "sources": [
         {
           "type": "series",
+          "id": "flixpatrol.apple-tv.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.apple-tv.us.movie"
+        },
+        {
+          "type": "series",
           "id": "mdblist.158629"
         },
         {
@@ -197,6 +1175,14 @@
     {
       "file": "heroes/prime.jpg",
       "sources": [
+        {
+          "type": "series",
+          "id": "flixpatrol.amazon-prime.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.amazon-prime.us.movie"
+        },
         {
           "type": "movie",
           "id": "mdblist.158637"
@@ -215,6 +1201,14 @@
       "sources": [
         {
           "type": "series",
+          "id": "flixpatrol.hbo-max.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.hbo-max.us.movie"
+        },
+        {
+          "type": "series",
           "id": "mdblist.158643"
         },
         {
@@ -229,6 +1223,14 @@
     {
       "file": "heroes/paramount.jpg",
       "sources": [
+        {
+          "type": "series",
+          "id": "flixpatrol.paramount.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.paramount.us.movie"
+        },
         {
           "type": "movie",
           "id": "mdblist.158646"
@@ -247,6 +1249,14 @@
       "sources": [
         {
           "type": "series",
+          "id": "flixpatrol.hulu.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.hulu.us.movie"
+        },
+        {
+          "type": "series",
           "id": "mdblist.158639"
         },
         {
@@ -261,6 +1271,14 @@
     {
       "file": "heroes/peacock.jpg",
       "sources": [
+        {
+          "type": "series",
+          "id": "flixpatrol.peacock.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.peacock.us.movie"
+        },
         {
           "type": "series",
           "id": "mdblist.158647"
@@ -278,6 +1296,10 @@
       "file": "heroes/crunchyroll.jpg",
       "sources": [
         {
+          "type": "all",
+          "id": "flixpatrol.crunchyroll.us.all"
+        },
+        {
           "type": "series",
           "id": "mdblist.158641"
         },
@@ -293,6 +1315,10 @@
     {
       "file": "heroes/shudder.jpg",
       "sources": [
+        {
+          "type": "all",
+          "id": "flixpatrol.shudder.us.all"
+        },
         {
           "type": "movie",
           "id": "mdblist.158654"
