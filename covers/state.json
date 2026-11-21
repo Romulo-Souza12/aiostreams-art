@@ -1,4 +1,64 @@
 {
+  "heroes/appletv.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/450094/backgrounds/6ace31af70e16.jpg",
+    "id": "tt32375763",
+    "name": "12 12 12",
+    "type": "series"
+  },
+  "heroes/crunchyroll.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
+    "id": "tt7441658",
+    "name": "Black Clover",
+    "type": "series"
+  },
+  "heroes/disney.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
+    "id": "tt39219651",
+    "name": "The 12 Dates of Christmas",
+    "type": "movie"
+  },
+  "heroes/hbomax.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/467092/backgrounds/6ac199bc68f3f.jpg",
+    "id": "tt37972251",
+    "name": "WAR (2026)",
+    "type": "series"
+  },
+  "heroes/hulu.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/429920/backgrounds/6a082c669a809.jpg",
+    "id": "tt21906238",
+    "name": "Rivals (2024)",
+    "type": "series"
+  },
+  "heroes/netflix.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/401003/backgrounds/619eb10caf5bc.jpg",
+    "id": "tt9813792",
+    "name": "FROM",
+    "type": "series"
+  },
+  "heroes/paramount.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+    "id": "tt0816692",
+    "name": "Interstellar",
+    "type": "movie"
+  },
+  "heroes/peacock.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/447848/backgrounds/6ac593a34d6ff.jpg",
+    "id": "tt31842126",
+    "name": "The Good Daughter (2026)",
+    "type": "series"
+  },
+  "heroes/prime.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "id": "tt12042730",
+    "name": "Project Hail Mary",
+    "type": "movie"
+  },
+  "heroes/shudder.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "id": "tt32358390",
+    "name": "The Cycle",
+    "type": "movie"
+  },
   "netflix/comedy.jpg": {
     "background": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
     "id": "tt38515310",
