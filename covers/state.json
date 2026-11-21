@@ -1,32 +1,158 @@
 {
-  "heroes/appletv.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/450094/backgrounds/6ace31af70e16.jpg",
-    "id": "tt32375763",
-    "name": "12 12 12",
-    "type": "series"
-  },
-  "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
-    "id": "tt7441658",
-    "name": "Black Clover",
-    "type": "series"
-  },
-  "heroes/disney.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
-    "id": "tt39219651",
-    "name": "The 12 Dates of Christmas",
+  "appletv/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+    "id": "tt10999120",
+    "name": "Spirited",
     "type": "movie"
   },
-  "heroes/hbomax.jpg": {
+  "appletv/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+    "id": "tt15095848",
+    "name": "Being Heumann",
+    "type": "movie"
+  },
+  "appletv/sci-fi.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/403245/backgrounds/645cd3cf8bd5e.jpg",
+    "id": "tt14688458",
+    "name": "Silo",
+    "type": "series"
+  },
+  "appletv/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+    "id": "tt0068359",
+    "name": "A Charlie Brown Thanksgiving",
+    "type": "movie"
+  },
+  "crunchyroll/action.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/473154/backgrounds/6adac866013b3.jpg",
+    "id": "tt39395275",
+    "name": "Dragon Ball Super: Beerus",
+    "type": "series"
+  },
+  "crunchyroll/anime-movies.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "id": "tt30472557",
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "type": "movie"
+  },
+  "crunchyroll/comedy.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/405920/backgrounds/6181af0258553.jpg",
+    "id": "tt13706018",
+    "name": "SPY x FAMILY",
+    "type": "series"
+  },
+  "crunchyroll/fantasy.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/424536/backgrounds/64e6cbe29d9c0.jpg",
+    "id": "tt22248376",
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series"
+  },
+  "crunchyroll/top-10.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/453028/backgrounds/66dabf750e60d.jpg",
+    "id": "tt33334216",
+    "name": "The Exiled Heavy Knight Knows How to Game the System",
+    "type": "series"
+  },
+  "disney/action.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+    "id": "tt6263850",
+    "name": "Deadpool & Wolverine",
+    "type": "movie"
+  },
+  "disney/animation.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "id": "tt29355505",
+    "name": "Toy Story 5",
+    "type": "movie"
+  },
+  "disney/family.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "id": "tt27419466",
+    "name": "Moana",
+    "type": "movie"
+  },
+  "disney/originals.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/426606/backgrounds/6aad14d25dfd9.jpg",
+    "id": "tt23112594",
+    "name": "VisionQuest",
+    "type": "series"
+  },
+  "disney/sci-fi.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "id": "tt1757678",
+    "name": "Avatar: Fire and Ash",
+    "type": "movie"
+  },
+  "disney/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "id": "tt4154796",
+    "name": "Avengers: Endgame",
+    "type": "movie"
+  },
+  "hbomax/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+    "id": "tt1517268",
+    "name": "Barbie",
+    "type": "movie"
+  },
+  "hbomax/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "id": "tt50389959",
+    "name": "A Story of Derry",
+    "type": "movie"
+  },
+  "hbomax/horror.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+    "id": "tt26657236",
+    "name": "Backrooms",
+    "type": "movie"
+  },
+  "hbomax/originals.jpg": {
     "background": "https://artworks.thetvdb.com/banners/v4/series/467092/backgrounds/6ac199bc68f3f.jpg",
     "id": "tt37972251",
     "name": "WAR (2026)",
     "type": "series"
   },
+  "hbomax/sci-fi.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+    "id": "tt15239678",
+    "name": "Dune: Part Two",
+    "type": "movie"
+  },
+  "hbomax/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+    "id": "tt27165187",
+    "name": "The End of Oak Street",
+    "type": "movie"
+  },
+  "heroes/appletv.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/455562/backgrounds/6921780c3b5fc.jpg",
+    "id": "tt31710249",
+    "name": "Stick",
+    "type": "series"
+  },
+  "heroes/crunchyroll.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/432815/backgrounds/6509b0aa5874f.jpg",
+    "id": "tt28313387",
+    "name": "A Returner's Magic Should Be Special",
+    "type": "series"
+  },
+  "heroes/disney.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/79590/backgrounds/66f4c617a35f7.jpg",
+    "id": "tt0463398",
+    "name": "Dancing with the Stars",
+    "type": "series"
+  },
+  "heroes/hbomax.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/364412/backgrounds/65258e9c2a5d7.jpg",
+    "id": "tt4406178",
+    "name": "The Gilded Age",
+    "type": "series"
+  },
   "heroes/hulu.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/429920/backgrounds/6a082c669a809.jpg",
-    "id": "tt21906238",
-    "name": "Rivals (2024)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463505/backgrounds/6947c937ca0c4.jpg",
+    "id": "tt36885662",
+    "name": "Best Medicine",
     "type": "series"
   },
   "heroes/netflix.jpg": {
@@ -36,10 +162,10 @@
     "type": "series"
   },
   "heroes/paramount.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
-    "id": "tt0816692",
-    "name": "Interstellar",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/75897-11.jpg",
+    "id": "tt0121955",
+    "name": "South Park",
+    "type": "series"
   },
   "heroes/peacock.jpg": {
     "background": "https://artworks.thetvdb.com/banners/v4/series/447848/backgrounds/6ac593a34d6ff.jpg",
@@ -48,15 +174,45 @@
     "type": "series"
   },
   "heroes/prime.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-    "id": "tt12042730",
-    "name": "Project Hail Mary",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/series/356992/backgrounds/62030538.jpg",
+    "id": "tt5622316",
+    "name": "The Chosen",
+    "type": "series"
   },
   "heroes/shudder.jpg": {
     "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
     "id": "tt32358390",
     "name": "The Cycle",
+    "type": "movie"
+  },
+  "hulu/animation.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "id": "tt32820897",
+    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "type": "movie"
+  },
+  "hulu/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
+    "id": "tt33612209",
+    "name": "The Devil Wears Prada 2",
+    "type": "movie"
+  },
+  "hulu/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "id": "tt0458352",
+    "name": "The Devil Wears Prada",
+    "type": "movie"
+  },
+  "hulu/horror.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/cL519xfEtR8NzE6UmUHyTpNO68I.jpg",
+    "id": "tt17526714",
+    "name": "The Substance",
+    "type": "movie"
+  },
+  "hulu/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+    "id": "tt1392170",
+    "name": "The Hunger Games",
     "type": "movie"
   },
   "netflix/comedy.jpg": {
@@ -93,6 +249,114 @@
     "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
     "id": "tt8014982",
     "name": "The Body (2026)",
+    "type": "series"
+  },
+  "paramount/action.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+    "id": "tt1745960",
+    "name": "Top Gun: Maverick",
+    "type": "movie"
+  },
+  "paramount/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "id": "tt32093575",
+    "name": "Scary Movie",
+    "type": "movie"
+  },
+  "paramount/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+    "id": "tt0075148",
+    "name": "Rocky",
+    "type": "movie"
+  },
+  "paramount/originals.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/446831/backgrounds/67e9845c46113.jpg",
+    "id": "tt31510819",
+    "name": "MobLand",
+    "type": "series"
+  },
+  "paramount/sci-fi.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+    "id": "tt2109248",
+    "name": "Transformers: Age of Extinction",
+    "type": "movie"
+  },
+  "paramount/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+    "id": "tt29356163",
+    "name": "PAW Patrol: The Dino Movie",
+    "type": "movie"
+  },
+  "peacock/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/5fTOeA4qulMp0sjwzuKsgl1ihoV.jpg",
+    "id": "tt29922811",
+    "name": "A Christmas Castle Proposal: A Royal in Paradise II",
+    "type": "movie"
+  },
+  "peacock/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "id": "tt15398776",
+    "name": "Oppenheimer",
+    "type": "movie"
+  },
+  "peacock/horror.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "id": "tt30887701",
+    "name": "Pinocchio: Unstrung",
+    "type": "movie"
+  },
+  "peacock/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "id": "tt32890033",
+    "name": "Minions & Monsters",
+    "type": "movie"
+  },
+  "prime/action.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "id": "tt37522541",
+    "name": "Apocalypse Z: New World",
+    "type": "movie"
+  },
+  "prime/comedy.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
+    "id": "tt43655467",
+    "name": "Ali G: Who Iz I?",
+    "type": "movie"
+  },
+  "prime/drama.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+    "id": "tt18351090",
+    "name": "Perfect Liars",
+    "type": "movie"
+  },
+  "prime/horror.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+    "id": "tt32881442",
+    "name": "Monkey\u2019s Magic Merry Go Round",
+    "type": "movie"
+  },
+  "prime/originals.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/367506/backgrounds/62e95380cdec6.jpg",
+    "id": "tt7631058",
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series"
+  },
+  "prime/sci-fi.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "id": "tt12042730",
+    "name": "Project Hail Mary",
+    "type": "movie"
+  },
+  "prime/top-10.jpg": {
+    "background": "https://image.tmdb.org/t/p/original/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+    "id": "tt24818230",
+    "name": "Madden",
+    "type": "movie"
+  },
+  "shudder/top-10.jpg": {
+    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
+    "id": "tt6289132",
+    "name": "The Boulet Brothers' Dragula",
     "type": "series"
   }
 }
