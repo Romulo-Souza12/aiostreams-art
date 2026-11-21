@@ -66,6 +66,8 @@ def render(bg, title, subtitle, accent):
     bg = bg.resize((int(bg.width * s) + 1, int(bg.height * s) + 1), Image.LANCZOS)
     l, t = (bg.width - W) // 2, (bg.height - H) // 2
     bg = bg.crop((l, t, l + W, t + H))
+    if not title:  # hero backdrop: the app adds its own logo and shading
+        return bg
     # Darken the bottom (and bottom-left, behind the text) so white text always reads.
     mask = Image.new("L", (W, H), 0)
     px = mask.load()
@@ -99,7 +101,8 @@ def main():
     state_path = OUT / "state.json"
     state = json.loads(state_path.read_text()) if state_path.exists() else {}
     used, changed, report = set(), [], []
-    for c in cfg["covers"]:
+    # Heroes run after covers, so a platform's hero never repeats one of its folder covers.
+    for c in cfg["covers"] + cfg.get("heroes", []):
         pick = None
         for src in c["sources"]:
             try:
@@ -124,7 +127,7 @@ def main():
         if prev.get("id") == m["id"] and prev.get("background") == bg_url and (OUT / c["file"]).exists():
             continue
         if not dry:
-            img = render(get_image(bg_url), c["title"], c["subtitle"], c["accent"])
+            img = render(get_image(bg_url), c.get("title", ""), c.get("subtitle", ""), c.get("accent", (0, 0, 0)))
             dest = OUT / c["file"]
             dest.parent.mkdir(parents=True, exist_ok=True)
             img.save(dest, quality=86, optimize=True, progressive=True)

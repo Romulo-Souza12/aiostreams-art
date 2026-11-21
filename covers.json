@@ -136,5 +136,145 @@
         }
       ]
     }
+  ],
+  "heroes": [
+    {
+      "file": "heroes/netflix.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "flixpatrol.netflix.us.series"
+        },
+        {
+          "type": "movie",
+          "id": "flixpatrol.netflix.us.movie"
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158623"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158622"
+        }
+      ]
+    },
+    {
+      "file": "heroes/disney.jpg",
+      "sources": [
+        {
+          "type": "movie",
+          "id": "mdblist.158635"
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158634"
+        }
+      ]
+    },
+    {
+      "file": "heroes/appletv.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.158629"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158630"
+        }
+      ]
+    },
+    {
+      "file": "heroes/prime.jpg",
+      "sources": [
+        {
+          "type": "movie",
+          "id": "mdblist.158637"
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158636"
+        }
+      ]
+    },
+    {
+      "file": "heroes/hbomax.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.158643"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158644"
+        }
+      ]
+    },
+    {
+      "file": "heroes/paramount.jpg",
+      "sources": [
+        {
+          "type": "movie",
+          "id": "mdblist.158646"
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158645"
+        }
+      ]
+    },
+    {
+      "file": "heroes/hulu.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.158639"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158640"
+        }
+      ]
+    },
+    {
+      "file": "heroes/peacock.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.158647"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158648"
+        }
+      ]
+    },
+    {
+      "file": "heroes/crunchyroll.jpg",
+      "sources": [
+        {
+          "type": "series",
+          "id": "mdblist.158641"
+        },
+        {
+          "type": "movie",
+          "id": "mdblist.158642"
+        }
+      ]
+    },
+    {
+      "file": "heroes/shudder.jpg",
+      "sources": [
+        {
+          "type": "movie",
+          "id": "mdblist.158654"
+        },
+        {
+          "type": "series",
+          "id": "mdblist.158653"
+        }
+      ]
+    }
   ]
 }
