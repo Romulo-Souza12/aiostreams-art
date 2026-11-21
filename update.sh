@@ -2,7 +2,6 @@
 # Regenerate covers and push them if anything changed. Safe to run on a schedule.
 set -euo pipefail
 cd "$(dirname "$0")"
-export HOME=/opt/data/profiles/jeongyeon/home
 git pull -q --rebase origin main || true
 python3 -I make_covers.py
 if [[ -n "$(git status --porcelain covers)" ]]; then
