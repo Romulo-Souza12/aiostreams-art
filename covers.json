@@ -993,8 +993,7 @@
         {
           "type": "series",
           "id": "streaming.pcp",
-          "genre": "Crime",
-          "primary": true
+          "genre": "Crime"
         }
       ]
     },
