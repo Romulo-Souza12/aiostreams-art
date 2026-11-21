@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-ta-east",
+  "type": "tv",
+  "name": "Toonami Aftermath East",
+  "poster": "https://i.imgur.com/aSjhZK7.png",
+  "logo": "https://i.imgur.com/aSjhZK7.png",
+  "posterShape": "square",
+  "channelNumber": 1,
+  "genres": [
+   "Toonami"
+  ],
+  "description": "The 24/7 fan-run Toonami block, Eastern time.",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

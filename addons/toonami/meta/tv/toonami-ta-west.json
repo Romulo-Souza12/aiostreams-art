@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-ta-west",
+  "type": "tv",
+  "name": "Toonami Aftermath West",
+  "poster": "https://i.imgur.com/aSjhZK7.png",
+  "logo": "https://i.imgur.com/aSjhZK7.png",
+  "posterShape": "square",
+  "channelNumber": 2,
+  "genres": [
+   "Toonami"
+  ],
+  "description": "The 24/7 fan-run Toonami block, Pacific time (3 hours behind East).",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "org.romulo.toonami",
+ "version": "1.0.0",
+ "name": "Toonami Live",
+ "description": "Toonami Aftermath live channels (East, West, Movies).",
+ "logo": "https://i.imgur.com/aSjhZK7.png",
+ "resources": [
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "tv"
+   ],
+   "idPrefixes": [
+    "toonami-"
+   ]
+  },
+  {
+   "name": "stream",
+   "types": [
+    "tv"
+   ],
+   "idPrefixes": [
+    "toonami-"
+   ]
+  }
+ ],
+ "types": [
+  "tv"
+ ],
+ "idPrefixes": [
+  "toonami-"
+ ],
+ "catalogs": [
+  {
+   "type": "tv",
+   "id": "toonami",
+   "name": "Toonami"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false,
+  "configurationRequired": false
+ }
+}

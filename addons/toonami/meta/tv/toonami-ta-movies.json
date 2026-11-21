@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-ta-movies",
+  "type": "tv",
+  "name": "Toonami Aftermath Movies",
+  "poster": "https://i.imgur.com/aSjhZK7.png",
+  "logo": "https://i.imgur.com/aSjhZK7.png",
+  "posterShape": "square",
+  "channelNumber": 3,
+  "genres": [
+   "Toonami"
+  ],
+  "description": "Toonami Aftermath's movie channel.",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}
