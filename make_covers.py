@@ -109,6 +109,8 @@ def main():
                 for typ, m in candidates(addon, src):
                     if m["id"] in used or not primary_ok(src, m):
                         continue
+                    if set(c.get("skip_genres", [])) & set(m.get("genres") or []):
+                        continue
                     bg = backdrop(addon, typ, m)
                     if bg:
                         pick = (typ, m, bg)

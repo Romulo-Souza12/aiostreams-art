@@ -157,6 +157,9 @@
           "type": "movie",
           "id": "mdblist.158622"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -170,6 +173,9 @@
           "type": "series",
           "id": "mdblist.158634"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -183,6 +189,9 @@
           "type": "movie",
           "id": "mdblist.158630"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -196,6 +205,9 @@
           "type": "series",
           "id": "mdblist.158636"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -209,6 +221,9 @@
           "type": "movie",
           "id": "mdblist.158644"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -222,6 +237,9 @@
           "type": "series",
           "id": "mdblist.158645"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -235,6 +253,9 @@
           "type": "movie",
           "id": "mdblist.158640"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -248,6 +269,9 @@
           "type": "movie",
           "id": "mdblist.158648"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -261,6 +285,9 @@
           "type": "movie",
           "id": "mdblist.158642"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     },
     {
@@ -274,6 +301,9 @@
           "type": "series",
           "id": "mdblist.158653"
         }
+      ],
+      "skip_genres": [
+        "Documentary"
       ]
     }
   ]
