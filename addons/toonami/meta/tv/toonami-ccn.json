@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-ccn",
+  "type": "tv",
+  "name": "Cartoon Cartoons Network",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+  "posterShape": "landscape",
+  "channelNumber": 6,
+  "genres": [
+   "Cartoons"
+  ],
+  "description": "Classic Cartoon Network, Hanna-Barbera and WB — thatsoretro.com",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

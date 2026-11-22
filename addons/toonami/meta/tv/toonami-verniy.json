@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-verniy",
+  "type": "tv",
+  "name": "Verniy TV",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+  "posterShape": "landscape",
+  "channelNumber": 7,
+  "genres": [
+   "Cartoons"
+  ],
+  "description": "Cartoon Network, Adult Swim and anime mix — verniy.tv",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

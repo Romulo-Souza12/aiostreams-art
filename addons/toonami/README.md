@@ -1,4 +1,5 @@
-# Toonami Live
+# Retro TV
 
-Static Stremio/AIOStreams addon: Toonami Aftermath's public live channels (East, West, Movies).
-Streams are the channel's own public playlists, as listed by iptv-org. No guide.
+A small static addon with nostalgic live channels: Toonami Aftermath, Adult Swim and Cartoon Network throwback streams, classic anime and Pluto TV retro channels.
+
+Stream links come from each channel's own public stream and iptv-org's Pluto TV links. Channel logos come from [stremio-nostalgiatv](https://github.com/BlizzHacker/stremio-nostalgiatv) (MIT).

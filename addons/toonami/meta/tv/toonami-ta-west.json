@@ -5,12 +5,12 @@
   "name": "Toonami Aftermath West",
   "poster": "https://i.imgur.com/aSjhZK7.png",
   "logo": "https://i.imgur.com/aSjhZK7.png",
-  "posterShape": "square",
+  "posterShape": "landscape",
   "channelNumber": 2,
   "genres": [
-   "Toonami"
+   "Toonami & Adult Swim"
   ],
-  "description": "The 24/7 fan-run Toonami block, Pacific time (3 hours behind East).",
+  "description": "Classic Toonami-era shows, Pacific time — Toonami Aftermath",
   "behaviorHints": {
    "isLive": true
   }

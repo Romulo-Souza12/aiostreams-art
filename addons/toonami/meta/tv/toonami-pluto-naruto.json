@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-naruto",
+  "type": "tv",
+  "name": "Naruto",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+  "posterShape": "landscape",
+  "channelNumber": 16,
+  "genres": [
+   "Anime"
+  ],
+  "description": "Naruto, 24/7 — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

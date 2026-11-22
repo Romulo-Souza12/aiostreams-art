@@ -1,0 +1,100 @@
+{
+ "metas": [
+  {
+   "id": "toonami-ccn",
+   "type": "tv",
+   "name": "Cartoon Cartoons Network",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+   "posterShape": "landscape",
+   "channelNumber": 6,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Classic Cartoon Network, Hanna-Barbera and WB — thatsoretro.com",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-verniy",
+   "type": "tv",
+   "name": "Verniy TV",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+   "posterShape": "landscape",
+   "channelNumber": 7,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Cartoon Network, Adult Swim and anime mix — verniy.tv",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90skids",
+   "type": "tv",
+   "name": "90s Kids",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids.png",
+   "posterShape": "landscape",
+   "channelNumber": 8,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Rugrats, Doug, Hey Arnold, Rocko and more — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90skids2",
+   "type": "tv",
+   "name": "90s Kids 2",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+   "posterShape": "landscape",
+   "channelNumber": 9,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "More 90s kids cartoons — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-foreverkids",
+   "type": "tv",
+   "name": "Forever Kids",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-forever-kids.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-forever-kids.png",
+   "posterShape": "landscape",
+   "channelNumber": 10,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "90s kids shows all day — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-nick",
+   "type": "tv",
+   "name": "Nickelodeon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+   "posterShape": "landscape",
+   "channelNumber": 11,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Nickelodeon — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

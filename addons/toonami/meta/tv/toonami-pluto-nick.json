@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-nick",
+  "type": "tv",
+  "name": "Nickelodeon",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+  "posterShape": "landscape",
+  "channelNumber": 11,
+  "genres": [
+   "Cartoons"
+  ],
+  "description": "Nickelodeon — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

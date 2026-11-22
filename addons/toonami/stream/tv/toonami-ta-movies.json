@@ -2,16 +2,13 @@
  "streams": [
   {
    "url": "https://api.toonamiaftermath.com/movies/playlist.m3u8",
-   "name": "Toonami Aftermath",
-   "title": "Live \u00b7 480p",
-   "behaviorHints": {
-    "notWebReady": false
-   }
+   "name": "Toonami Aftermath Movies",
+   "title": "Live"
   },
   {
    "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
-   "name": "Toonami Aftermath",
-   "title": "Live \u00b7 480p (backup)"
+   "name": "Toonami Aftermath Movies",
+   "title": "Live (backup)"
   }
  ]
 }

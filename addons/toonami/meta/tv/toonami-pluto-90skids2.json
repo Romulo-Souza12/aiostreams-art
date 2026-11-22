@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-90skids2",
+  "type": "tv",
+  "name": "90s Kids 2",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+  "posterShape": "landscape",
+  "channelNumber": 9,
+  "genres": [
+   "Cartoons"
+  ],
+  "description": "More 90s kids cartoons — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

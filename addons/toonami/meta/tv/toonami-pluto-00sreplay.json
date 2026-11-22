@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-00sreplay",
+  "type": "tv",
+  "name": "00s Replay",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+  "posterShape": "landscape",
+  "channelNumber": 21,
+  "genres": [
+   "Throwback TV"
+  ],
+  "description": "2000s movies and TV — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

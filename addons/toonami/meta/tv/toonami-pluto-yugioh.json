@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-yugioh",
+  "type": "tv",
+  "name": "Yu-Gi-Oh!",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+  "posterShape": "landscape",
+  "channelNumber": 13,
+  "genres": [
+   "Anime"
+  ],
+  "description": "Yu-Gi-Oh!, 24/7 — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "metas": [
+  {
+   "id": "toonami-pluto-pokemon",
+   "type": "tv",
+   "name": "Pokémon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-pokemon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-pokemon.png",
+   "posterShape": "landscape",
+   "channelNumber": 12,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Pokémon, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-yugioh",
+   "type": "tv",
+   "name": "Yu-Gi-Oh!",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+   "posterShape": "landscape",
+   "channelNumber": 13,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Yu-Gi-Oh!, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-sailormoon",
+   "type": "tv",
+   "name": "Sailor Moon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+   "posterShape": "landscape",
+   "channelNumber": 14,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Sailor Moon, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-inuyasha",
+   "type": "tv",
+   "name": "Inuyasha",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-inuyasha.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-inuyasha.png",
+   "posterShape": "landscape",
+   "channelNumber": 15,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Inuyasha, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-naruto",
+   "type": "tv",
+   "name": "Naruto",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+   "posterShape": "landscape",
+   "channelNumber": 16,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Naruto, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-onepiece",
+   "type": "tv",
+   "name": "One Piece",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-one-piece.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-one-piece.png",
+   "posterShape": "landscape",
+   "channelNumber": 17,
+   "genres": [
+    "Anime"
+   ],
+   "description": "One Piece, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-anime",
+   "type": "tv",
+   "name": "Pluto TV Anime",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+   "posterShape": "landscape",
+   "channelNumber": 18,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Anime mix — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

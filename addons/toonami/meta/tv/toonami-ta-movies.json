@@ -3,14 +3,14 @@
   "id": "toonami-ta-movies",
   "type": "tv",
   "name": "Toonami Aftermath Movies",
-  "poster": "https://i.imgur.com/aSjhZK7.png",
-  "logo": "https://i.imgur.com/aSjhZK7.png",
-  "posterShape": "square",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+  "posterShape": "landscape",
   "channelNumber": 3,
   "genres": [
-   "Toonami"
+   "Toonami & Adult Swim"
   ],
-  "description": "Toonami Aftermath's movie channel.",
+  "description": "Toonami-era movies — Toonami Aftermath",
   "behaviorHints": {
    "isLive": true
   }

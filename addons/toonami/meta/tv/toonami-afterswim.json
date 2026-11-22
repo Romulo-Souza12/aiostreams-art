@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-afterswim",
+  "type": "tv",
+  "name": "After Swim",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+  "posterShape": "landscape",
+  "channelNumber": 5,
+  "genres": [
+   "Toonami & Adult Swim"
+  ],
+  "description": "Adult Swim and Toonami nostalgia — afterswim.org",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

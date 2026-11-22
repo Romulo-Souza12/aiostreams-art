@@ -6,12 +6,12 @@
    "name": "Toonami Aftermath East",
    "poster": "https://i.imgur.com/aSjhZK7.png",
    "logo": "https://i.imgur.com/aSjhZK7.png",
-   "posterShape": "square",
+   "posterShape": "landscape",
    "channelNumber": 1,
    "genres": [
-    "Toonami"
+    "Toonami & Adult Swim"
    ],
-   "description": "The 24/7 fan-run Toonami block, Eastern time.",
+   "description": "Classic Toonami-era shows, Eastern time — Toonami Aftermath",
    "behaviorHints": {
     "isLive": true
    }
@@ -22,12 +22,12 @@
    "name": "Toonami Aftermath West",
    "poster": "https://i.imgur.com/aSjhZK7.png",
    "logo": "https://i.imgur.com/aSjhZK7.png",
-   "posterShape": "square",
+   "posterShape": "landscape",
    "channelNumber": 2,
    "genres": [
-    "Toonami"
+    "Toonami & Adult Swim"
    ],
-   "description": "The 24/7 fan-run Toonami block, Pacific time (3 hours behind East).",
+   "description": "Classic Toonami-era shows, Pacific time — Toonami Aftermath",
    "behaviorHints": {
     "isLive": true
    }
@@ -36,14 +36,318 @@
    "id": "toonami-ta-movies",
    "type": "tv",
    "name": "Toonami Aftermath Movies",
-   "poster": "https://i.imgur.com/aSjhZK7.png",
-   "logo": "https://i.imgur.com/aSjhZK7.png",
-   "posterShape": "square",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+   "posterShape": "landscape",
    "channelNumber": 3,
    "genres": [
-    "Toonami"
+    "Toonami & Adult Swim"
    ],
-   "description": "Toonami Aftermath's movie channel.",
+   "description": "Toonami-era movies — Toonami Aftermath",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-swimrewind",
+   "type": "tv",
+   "name": "Swim Rewind",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+   "posterShape": "landscape",
+   "channelNumber": 4,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "2000s Cartoon Network, Toonami and Adult Swim — swimrewind.com",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-afterswim",
+   "type": "tv",
+   "name": "After Swim",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+   "posterShape": "landscape",
+   "channelNumber": 5,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "Adult Swim and Toonami nostalgia — afterswim.org",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-ccn",
+   "type": "tv",
+   "name": "Cartoon Cartoons Network",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/ccn.png",
+   "posterShape": "landscape",
+   "channelNumber": 6,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Classic Cartoon Network, Hanna-Barbera and WB — thatsoretro.com",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-verniy",
+   "type": "tv",
+   "name": "Verniy TV",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/verniy.png",
+   "posterShape": "landscape",
+   "channelNumber": 7,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Cartoon Network, Adult Swim and anime mix — verniy.tv",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90skids",
+   "type": "tv",
+   "name": "90s Kids",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids.png",
+   "posterShape": "landscape",
+   "channelNumber": 8,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Rugrats, Doug, Hey Arnold, Rocko and more — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90skids2",
+   "type": "tv",
+   "name": "90s Kids 2",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-kids-2.png",
+   "posterShape": "landscape",
+   "channelNumber": 9,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "More 90s kids cartoons — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-foreverkids",
+   "type": "tv",
+   "name": "Forever Kids",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-forever-kids.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-forever-kids.png",
+   "posterShape": "landscape",
+   "channelNumber": 10,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "90s kids shows all day — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-nick",
+   "type": "tv",
+   "name": "Nickelodeon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-nickelodeon.png",
+   "posterShape": "landscape",
+   "channelNumber": 11,
+   "genres": [
+    "Cartoons"
+   ],
+   "description": "Nickelodeon — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-pokemon",
+   "type": "tv",
+   "name": "Pokémon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-pokemon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-pokemon.png",
+   "posterShape": "landscape",
+   "channelNumber": 12,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Pokémon, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-yugioh",
+   "type": "tv",
+   "name": "Yu-Gi-Oh!",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-yu-gi-oh.png",
+   "posterShape": "landscape",
+   "channelNumber": 13,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Yu-Gi-Oh!, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-sailormoon",
+   "type": "tv",
+   "name": "Sailor Moon",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+   "posterShape": "landscape",
+   "channelNumber": 14,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Sailor Moon, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-inuyasha",
+   "type": "tv",
+   "name": "Inuyasha",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-inuyasha.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-inuyasha.png",
+   "posterShape": "landscape",
+   "channelNumber": 15,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Inuyasha, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-naruto",
+   "type": "tv",
+   "name": "Naruto",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-naruto.png",
+   "posterShape": "landscape",
+   "channelNumber": 16,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Naruto, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-onepiece",
+   "type": "tv",
+   "name": "One Piece",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-one-piece.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-one-piece.png",
+   "posterShape": "landscape",
+   "channelNumber": 17,
+   "genres": [
+    "Anime"
+   ],
+   "description": "One Piece, 24/7 — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-anime",
+   "type": "tv",
+   "name": "Pluto TV Anime",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+   "posterShape": "landscape",
+   "channelNumber": 18,
+   "genres": [
+    "Anime"
+   ],
+   "description": "Anime mix — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-80srewind",
+   "type": "tv",
+   "name": "80s Rewind",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+   "posterShape": "landscape",
+   "channelNumber": 19,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "80s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90sthrowback",
+   "type": "tv",
+   "name": "90s Throwback",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-throwback.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-throwback.png",
+   "posterShape": "landscape",
+   "channelNumber": 20,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "90s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-00sreplay",
+   "type": "tv",
+   "name": "00s Replay",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+   "posterShape": "landscape",
+   "channelNumber": 21,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "2000s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-retrostrange",
+   "type": "tv",
+   "name": "RetroStrange TV",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/retro-strange.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/retro-strange.png",
+   "posterShape": "landscape",
+   "channelNumber": 22,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "Vintage sci-fi, classic TV and public-domain oddities — retrostrange.com",
    "behaviorHints": {
     "isLive": true
    }

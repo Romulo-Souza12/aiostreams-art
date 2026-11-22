@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-80srewind",
+  "type": "tv",
+  "name": "80s Rewind",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+  "posterShape": "landscape",
+  "channelNumber": 19,
+  "genres": [
+   "Throwback TV"
+  ],
+  "description": "80s movies and TV — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

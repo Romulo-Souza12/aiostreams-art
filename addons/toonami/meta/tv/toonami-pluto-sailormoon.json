@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-sailormoon",
+  "type": "tv",
+  "name": "Sailor Moon",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-sailor-moon.png",
+  "posterShape": "landscape",
+  "channelNumber": 14,
+  "genres": [
+   "Anime"
+  ],
+  "description": "Sailor Moon, 24/7 — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "metas": [
+  {
+   "id": "toonami-pluto-80srewind",
+   "type": "tv",
+   "name": "80s Rewind",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-80s-rewind.png",
+   "posterShape": "landscape",
+   "channelNumber": 19,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "80s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-90sthrowback",
+   "type": "tv",
+   "name": "90s Throwback",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-throwback.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-90s-throwback.png",
+   "posterShape": "landscape",
+   "channelNumber": 20,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "90s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-pluto-00sreplay",
+   "type": "tv",
+   "name": "00s Replay",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-00s-replay.png",
+   "posterShape": "landscape",
+   "channelNumber": 21,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "2000s movies and TV — Pluto TV",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-retrostrange",
+   "type": "tv",
+   "name": "RetroStrange TV",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/retro-strange.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/retro-strange.png",
+   "posterShape": "landscape",
+   "channelNumber": 22,
+   "genres": [
+    "Throwback TV"
+   ],
+   "description": "Vintage sci-fi, classic TV and public-domain oddities — retrostrange.com",
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

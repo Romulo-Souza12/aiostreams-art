@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-swimrewind",
+  "type": "tv",
+  "name": "Swim Rewind",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+  "posterShape": "landscape",
+  "channelNumber": 4,
+  "genres": [
+   "Toonami & Adult Swim"
+  ],
+  "description": "2000s Cartoon Network, Toonami and Adult Swim — swimrewind.com",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}

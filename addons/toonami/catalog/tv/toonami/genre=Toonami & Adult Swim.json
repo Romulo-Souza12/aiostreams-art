@@ -1,0 +1,84 @@
+{
+ "metas": [
+  {
+   "id": "toonami-ta-east",
+   "type": "tv",
+   "name": "Toonami Aftermath East",
+   "poster": "https://i.imgur.com/aSjhZK7.png",
+   "logo": "https://i.imgur.com/aSjhZK7.png",
+   "posterShape": "landscape",
+   "channelNumber": 1,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "Classic Toonami-era shows, Eastern time — Toonami Aftermath",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-ta-west",
+   "type": "tv",
+   "name": "Toonami Aftermath West",
+   "poster": "https://i.imgur.com/aSjhZK7.png",
+   "logo": "https://i.imgur.com/aSjhZK7.png",
+   "posterShape": "landscape",
+   "channelNumber": 2,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "Classic Toonami-era shows, Pacific time — Toonami Aftermath",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-ta-movies",
+   "type": "tv",
+   "name": "Toonami Aftermath Movies",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/toonami-aftermath-movies.png",
+   "posterShape": "landscape",
+   "channelNumber": 3,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "Toonami-era movies — Toonami Aftermath",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-swimrewind",
+   "type": "tv",
+   "name": "Swim Rewind",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/swim-rewind.png",
+   "posterShape": "landscape",
+   "channelNumber": 4,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "2000s Cartoon Network, Toonami and Adult Swim — swimrewind.com",
+   "behaviorHints": {
+    "isLive": true
+   }
+  },
+  {
+   "id": "toonami-afterswim",
+   "type": "tv",
+   "name": "After Swim",
+   "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+   "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/afterswim.png",
+   "posterShape": "landscape",
+   "channelNumber": 5,
+   "genres": [
+    "Toonami & Adult Swim"
+   ],
+   "description": "Adult Swim and Toonami nostalgia — afterswim.org",
+   "behaviorHints": {
+    "isLive": true
+   }
+  }
+ ]
+}

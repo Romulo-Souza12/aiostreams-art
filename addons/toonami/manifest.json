@@ -1,8 +1,8 @@
 {
  "id": "org.romulo.toonami",
- "version": "1.0.0",
- "name": "Toonami Live",
- "description": "Toonami Aftermath live channels (East, West, Movies).",
+ "version": "1.1.0",
+ "name": "Retro TV",
+ "description": "Nostalgic live channels: Toonami Aftermath, Adult Swim and Cartoon Network throwbacks, classic anime and Pluto TV retro channels.",
  "logo": "https://i.imgur.com/aSjhZK7.png",
  "resources": [
   "catalog",
@@ -35,7 +35,18 @@
   {
    "type": "tv",
    "id": "toonami",
-   "name": "Toonami"
+   "name": "Retro TV",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Toonami & Adult Swim",
+      "Cartoons",
+      "Anime",
+      "Throwback TV"
+     ]
+    }
+   ]
   }
  ],
  "behaviorHints": {

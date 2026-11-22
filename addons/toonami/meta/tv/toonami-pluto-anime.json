@@ -1,0 +1,18 @@
+{
+ "meta": {
+  "id": "toonami-pluto-anime",
+  "type": "tv",
+  "name": "Pluto TV Anime",
+  "poster": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+  "logo": "https://raw.githubusercontent.com/BlizzHacker/stremio-nostalgiatv/4de0de16dc4b07ca9e016588a46278c370b964e5/public/images/pluto-anime.png",
+  "posterShape": "landscape",
+  "channelNumber": 18,
+  "genres": [
+   "Anime"
+  ],
+  "description": "Anime mix — Pluto TV",
+  "behaviorHints": {
+   "isLive": true
+  }
+ }
+}
