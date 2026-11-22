@@ -30,7 +30,7 @@
     "type": "series"
   },
   "crunchyroll/anime-movies.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "background": "https://image.tmdb.org/t/p/original/kENypmecxSQNw9qSRQBEr1E35WX.jpg",
     "id": "tt30472557",
     "name": "Chainsaw Man - The Movie: Reze Arc",
     "type": "movie"
@@ -126,15 +126,15 @@
     "type": "movie"
   },
   "heroes/appletv.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/455562/backgrounds/6921780c3b5fc.jpg",
-    "id": "tt31710249",
-    "name": "Stick",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/430654/backgrounds/6abbbf9a221ae.jpg",
+    "id": "tt26598805",
+    "name": "Nocturne",
     "type": "series"
   },
   "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/432815/backgrounds/6509b0aa5874f.jpg",
-    "id": "tt28313387",
-    "name": "A Returner's Magic Should Be Special",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
+    "id": "tt43691353",
+    "name": "Overgeared",
     "type": "series"
   },
   "heroes/disney.jpg": {
@@ -150,9 +150,9 @@
     "type": "series"
   },
   "heroes/hulu.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/463505/backgrounds/6947c937ca0c4.jpg",
-    "id": "tt36885662",
-    "name": "Best Medicine",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/204951-4.jpg",
+    "id": "tmdb:96499",
+    "name": "CMA Awards",
     "type": "series"
   },
   "heroes/netflix.jpg": {
@@ -162,28 +162,28 @@
     "type": "series"
   },
   "heroes/paramount.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/75897-11.jpg",
-    "id": "tt0121955",
-    "name": "South Park",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/413215/backgrounds/626c447fe882e.jpg",
+    "id": "tt16358384",
+    "name": "Tulsa King",
     "type": "series"
   },
   "heroes/peacock.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/447848/backgrounds/6ac593a34d6ff.jpg",
-    "id": "tt31842126",
-    "name": "The Good Daughter (2026)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/428163/backgrounds/6aae4c878ab44.jpg",
+    "id": "tt15557874",
+    "name": "The Traitors (US)",
     "type": "series"
   },
   "heroes/prime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/356992/backgrounds/62030538.jpg",
-    "id": "tt5622316",
-    "name": "The Chosen",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/452135/backgrounds/6acadabeb57eb.jpg",
+    "id": "tt15715850",
+    "name": "The Greatest (2026)",
     "type": "series"
   },
   "heroes/shudder.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "id": "tt32358390",
-    "name": "The Cycle",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
+    "id": "tt6289132",
+    "name": "The Boulet Brothers' Dragula",
+    "type": "series"
   },
   "hulu/animation.jpg": {
     "background": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -258,9 +258,9 @@
     "type": "movie"
   },
   "paramount/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-    "id": "tt32093575",
-    "name": "Scary Movie",
+    "background": "https://image.tmdb.org/t/p/original/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "id": "tt0109830",
+    "name": "Forrest Gump",
     "type": "movie"
   },
   "paramount/drama.jpg": {
@@ -360,9 +360,9 @@
     "type": "movie"
   },
   "shudder/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
-    "id": "tt6289132",
-    "name": "The Boulet Brothers' Dragula",
-    "type": "series"
+    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "id": "tt32358390",
+    "name": "The Cycle",
+    "type": "movie"
   }
 }
