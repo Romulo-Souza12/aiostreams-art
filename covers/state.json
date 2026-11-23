@@ -30,9 +30,9 @@
     "type": "series"
   },
   "crunchyroll/anime-movies.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/kENypmecxSQNw9qSRQBEr1E35WX.jpg",
-    "id": "tt30472557",
-    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "background": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "id": "tt32820897",
+    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie"
   },
   "crunchyroll/comedy.jpg": {
@@ -48,9 +48,9 @@
     "type": "series"
   },
   "crunchyroll/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/453028/backgrounds/66dabf750e60d.jpg",
-    "id": "tt33334216",
-    "name": "The Exiled Heavy Knight Knows How to Game the System",
+    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
+    "id": "tt7441658",
+    "name": "Black Clover",
     "type": "series"
   },
   "disney/action.jpg": {
@@ -84,9 +84,9 @@
     "type": "movie"
   },
   "disney/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-    "id": "tt4154796",
-    "name": "Avengers: Endgame",
+    "background": "https://image.tmdb.org/t/p/original/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+    "id": "tt0099785",
+    "name": "Home Alone",
     "type": "movie"
   },
   "hbomax/comedy.jpg": {
@@ -120,27 +120,27 @@
     "type": "movie"
   },
   "hbomax/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+    "background": "https://image.tmdb.org/t/p/original/w9AiymbmQGt3jdtsm78HdfKkChy.jpg",
     "id": "tt27165187",
     "name": "The End of Oak Street",
     "type": "movie"
   },
   "heroes/appletv.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/430654/backgrounds/6abbbf9a221ae.jpg",
-    "id": "tt26598805",
-    "name": "Nocturne",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/450094/backgrounds/6ace31af70e16.jpg",
+    "id": "tt32375763",
+    "name": "12 12 12",
     "type": "series"
   },
   "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
-    "id": "tt43691353",
-    "name": "Overgeared",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/472641/backgrounds/6aa7d2918ec45.jpg",
+    "id": "tt39394153",
+    "name": "Firefly Wedding",
     "type": "series"
   },
   "heroes/disney.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/79590/backgrounds/66f4c617a35f7.jpg",
-    "id": "tt0463398",
-    "name": "Dancing with the Stars",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/415151/backgrounds/658495497f018.jpg",
+    "id": "tt12324366",
+    "name": "Percy Jackson and the Olympians",
     "type": "series"
   },
   "heroes/hbomax.jpg": {
@@ -150,9 +150,9 @@
     "type": "series"
   },
   "heroes/hulu.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/204951-4.jpg",
-    "id": "tmdb:96499",
-    "name": "CMA Awards",
+    "background": "https://artworks.thetvdb.com/banners/series/337907/backgrounds/62096837.jpg",
+    "id": "tt7235466",
+    "name": "9-1-1",
     "type": "series"
   },
   "heroes/netflix.jpg": {
@@ -168,9 +168,9 @@
     "type": "series"
   },
   "heroes/peacock.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/428163/backgrounds/6aae4c878ab44.jpg",
-    "id": "tt15557874",
-    "name": "The Traitors (US)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/447848/backgrounds/6ac593a34d6ff.jpg",
+    "id": "tt31842126",
+    "name": "The Good Daughter (2026)",
     "type": "series"
   },
   "heroes/prime.jpg": {
@@ -180,15 +180,15 @@
     "type": "series"
   },
   "heroes/shudder.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
-    "id": "tt6289132",
-    "name": "The Boulet Brothers' Dragula",
-    "type": "series"
+    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "id": "tt32358390",
+    "name": "The Cycle",
+    "type": "movie"
   },
   "hulu/animation.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "id": "tt32820897",
-    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "background": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "id": "tt0327597",
+    "name": "Coraline",
     "type": "movie"
   },
   "hulu/comedy.jpg": {
@@ -258,9 +258,9 @@
     "type": "movie"
   },
   "paramount/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
-    "id": "tt0109830",
-    "name": "Forrest Gump",
+    "background": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "id": "tt32093575",
+    "name": "Scary Movie",
     "type": "movie"
   },
   "paramount/drama.jpg": {
@@ -276,9 +276,9 @@
     "type": "series"
   },
   "paramount/sci-fi.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
-    "id": "tt2109248",
-    "name": "Transformers: Age of Extinction",
+    "background": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+    "id": "tt5090568",
+    "name": "Transformers: Rise of the Beasts",
     "type": "movie"
   },
   "paramount/top-10.jpg": {
@@ -288,9 +288,9 @@
     "type": "movie"
   },
   "peacock/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/5fTOeA4qulMp0sjwzuKsgl1ihoV.jpg",
-    "id": "tt29922811",
-    "name": "A Christmas Castle Proposal: A Royal in Paradise II",
+    "background": "https://image.tmdb.org/t/p/original/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+    "id": "tt0892791",
+    "name": "Shrek Forever After",
     "type": "movie"
   },
   "peacock/crime.jpg": {
@@ -360,9 +360,9 @@
     "type": "movie"
   },
   "shudder/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "id": "tt32358390",
-    "name": "The Cycle",
+    "background": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+    "id": "tt36893729",
+    "name": "Ice Cream Man",
     "type": "movie"
   }
 }
