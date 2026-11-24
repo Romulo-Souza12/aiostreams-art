@@ -54,9 +54,9 @@
     "type": "series"
   },
   "disney/action.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
-    "id": "tt6263850",
-    "name": "Deadpool & Wolverine",
+    "background": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "id": "tt10872600",
+    "name": "Spider-Man: No Way Home",
     "type": "movie"
   },
   "disney/animation.jpg": {
@@ -72,9 +72,9 @@
     "type": "movie"
   },
   "disney/originals.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/426606/backgrounds/6aad14d25dfd9.jpg",
-    "id": "tt23112594",
-    "name": "VisionQuest",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/415151/backgrounds/658495497f018.jpg",
+    "id": "tt12324366",
+    "name": "Percy Jackson and the Olympians",
     "type": "series"
   },
   "disney/sci-fi.jpg": {
@@ -126,33 +126,33 @@
     "type": "movie"
   },
   "heroes/appletv.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/450094/backgrounds/6ace31af70e16.jpg",
-    "id": "tt32375763",
-    "name": "12 12 12",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/430654/backgrounds/6abbbf9a221ae.jpg",
+    "id": "tt26598805",
+    "name": "Nocturne",
     "type": "series"
   },
   "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/472641/backgrounds/6aa7d2918ec45.jpg",
-    "id": "tt39394153",
-    "name": "Firefly Wedding",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
+    "id": "tt43691353",
+    "name": "Overgeared",
     "type": "series"
   },
   "heroes/disney.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/415151/backgrounds/658495497f018.jpg",
-    "id": "tt12324366",
-    "name": "Percy Jackson and the Olympians",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/302218-6.jpg",
+    "id": "tt2580046",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series"
   },
   "heroes/hbomax.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/364412/backgrounds/65258e9c2a5d7.jpg",
-    "id": "tt4406178",
-    "name": "The Gilded Age",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/72231/backgrounds/68aa4a6cb1693.jpg",
+    "id": "tt0350448",
+    "name": "Real Time with Bill Maher",
     "type": "series"
   },
   "heroes/hulu.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/337907/backgrounds/62096837.jpg",
-    "id": "tt7235466",
-    "name": "9-1-1",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/204951-4.jpg",
+    "id": "tmdb:96499",
+    "name": "CMA Awards",
     "type": "series"
   },
   "heroes/netflix.jpg": {
@@ -174,9 +174,9 @@
     "type": "series"
   },
   "heroes/prime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/452135/backgrounds/6acadabeb57eb.jpg",
-    "id": "tt15715850",
-    "name": "The Greatest (2026)",
+    "background": "https://artworks.thetvdb.com/banners/series/356992/backgrounds/62030538.jpg",
+    "id": "tt5622316",
+    "name": "The Chosen",
     "type": "series"
   },
   "heroes/shudder.jpg": {
@@ -264,9 +264,9 @@
     "type": "movie"
   },
   "paramount/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
-    "id": "tt0075148",
-    "name": "Rocky",
+    "background": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+    "id": "tt0068646",
+    "name": "The Godfather",
     "type": "movie"
   },
   "paramount/originals.jpg": {
@@ -282,15 +282,15 @@
     "type": "movie"
   },
   "paramount/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-    "id": "tt29356163",
-    "name": "PAW Patrol: The Dino Movie",
+    "background": "https://image.tmdb.org/t/p/original/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
+    "id": "tt24326458",
+    "name": "One Mile: Chapter One",
     "type": "movie"
   },
   "peacock/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
-    "id": "tt0892791",
-    "name": "Shrek Forever After",
+    "background": "https://image.tmdb.org/t/p/original/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
+    "id": "tt36303063",
+    "name": "Unbearable Christmas",
     "type": "movie"
   },
   "peacock/crime.jpg": {
@@ -330,7 +330,7 @@
     "type": "movie"
   },
   "prime/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+    "background": "https://image.tmdb.org/t/p/original/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
     "id": "tt18351090",
     "name": "Perfect Liars",
     "type": "movie"
