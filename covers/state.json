@@ -6,9 +6,9 @@
     "type": "movie"
   },
   "appletv/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-    "id": "tt15095848",
-    "name": "Being Heumann",
+    "background": "https://image.tmdb.org/t/p/original/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+    "id": "tt6262770",
+    "name": "Tenzing",
     "type": "movie"
   },
   "appletv/sci-fi.jpg": {
@@ -48,15 +48,15 @@
     "type": "series"
   },
   "crunchyroll/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
-    "id": "tt7441658",
-    "name": "Black Clover",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
+    "id": "tt43691353",
+    "name": "Overgeared",
     "type": "series"
   },
   "disney/action.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-    "id": "tt10872600",
-    "name": "Spider-Man: No Way Home",
+    "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+    "id": "tt6263850",
+    "name": "Deadpool & Wolverine",
     "type": "movie"
   },
   "disney/animation.jpg": {
@@ -132,21 +132,21 @@
     "type": "series"
   },
   "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
-    "id": "tt43691353",
-    "name": "Overgeared",
+    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
+    "id": "tt7441658",
+    "name": "Black Clover",
     "type": "series"
   },
   "heroes/disney.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/302218-6.jpg",
-    "id": "tt2580046",
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/426606/backgrounds/6aad14d25dfd9.jpg",
+    "id": "tt23112594",
+    "name": "VisionQuest",
     "type": "series"
   },
   "heroes/hbomax.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/72231/backgrounds/68aa4a6cb1693.jpg",
-    "id": "tt0350448",
-    "name": "Real Time with Bill Maher",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/364412/backgrounds/65258e9c2a5d7.jpg",
+    "id": "tt4406178",
+    "name": "The Gilded Age",
     "type": "series"
   },
   "heroes/hulu.jpg": {
@@ -156,21 +156,21 @@
     "type": "series"
   },
   "heroes/netflix.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/401003/backgrounds/619eb10caf5bc.jpg",
-    "id": "tt9813792",
-    "name": "FROM",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/76779-1.jpg",
+    "id": "tt0185103",
+    "name": "WWE Raw",
     "type": "series"
   },
   "heroes/paramount.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/413215/backgrounds/626c447fe882e.jpg",
-    "id": "tt16358384",
-    "name": "Tulsa King",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463433/backgrounds/6aa96cc698ac1.jpg",
+    "id": "tt36849871",
+    "name": "Marshals",
     "type": "series"
   },
   "heroes/peacock.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/447848/backgrounds/6ac593a34d6ff.jpg",
-    "id": "tt31842126",
-    "name": "The Good Daughter (2026)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463422/backgrounds/6b0615f032788.jpg",
+    "id": "tt36843594",
+    "name": "Dig (2026)",
     "type": "series"
   },
   "heroes/prime.jpg": {
@@ -234,9 +234,9 @@
     "type": "movie"
   },
   "netflix/originals.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/441315/backgrounds/674a099d87448.jpg",
-    "id": "tt27995113",
-    "name": "Black Doves",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
+    "id": "tt8014982",
+    "name": "The Body (2026)",
     "type": "series"
   },
   "netflix/sci-fi.jpg": {
@@ -246,9 +246,9 @@
     "type": "movie"
   },
   "netflix/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/463695/backgrounds/6ad35f3b54859.jpg",
-    "id": "tt8014982",
-    "name": "The Body (2026)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/484688/backgrounds/6b01e2daed314.jpg",
+    "id": "tt33004920",
+    "name": "The Trials of Karen Read",
     "type": "series"
   },
   "paramount/action.jpg": {
@@ -258,9 +258,9 @@
     "type": "movie"
   },
   "paramount/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-    "id": "tt32093575",
-    "name": "Scary Movie",
+    "background": "https://image.tmdb.org/t/p/original/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "id": "tt0109830",
+    "name": "Forrest Gump",
     "type": "movie"
   },
   "paramount/drama.jpg": {
@@ -282,9 +282,9 @@
     "type": "movie"
   },
   "paramount/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
-    "id": "tt24326458",
-    "name": "One Mile: Chapter One",
+    "background": "https://image.tmdb.org/t/p/original/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+    "id": "tt29356163",
+    "name": "PAW Patrol: The Dino Movie",
     "type": "movie"
   },
   "peacock/comedy.jpg": {
@@ -330,9 +330,9 @@
     "type": "movie"
   },
   "prime/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/m4i6oWU1LoAkYVuV37L7UyI2tcy.jpg",
-    "id": "tt18351090",
-    "name": "Perfect Liars",
+    "background": "https://image.tmdb.org/t/p/original/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+    "id": "tt12735488",
+    "name": "Kalki 2898-AD",
     "type": "movie"
   },
   "prime/horror.jpg": {
@@ -348,9 +348,9 @@
     "type": "series"
   },
   "prime/sci-fi.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-    "id": "tt12042730",
-    "name": "Project Hail Mary",
+    "background": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "id": "tt13186306",
+    "name": "War of the Worlds",
     "type": "movie"
   },
   "prime/top-10.jpg": {
