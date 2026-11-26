@@ -6,9 +6,9 @@
     "type": "movie"
   },
   "appletv/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
-    "id": "tt6262770",
-    "name": "Tenzing",
+    "background": "https://image.tmdb.org/t/p/original/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+    "id": "tt32213169",
+    "name": "Way of the Warrior Kid",
     "type": "movie"
   },
   "appletv/sci-fi.jpg": {
@@ -24,9 +24,9 @@
     "type": "movie"
   },
   "crunchyroll/action.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/473154/backgrounds/6adac866013b3.jpg",
-    "id": "tt39395275",
-    "name": "Dragon Ball Super: Beerus",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/405920/backgrounds/6181af0258553.jpg",
+    "id": "tt13706018",
+    "name": "SPY x FAMILY",
     "type": "series"
   },
   "crunchyroll/anime-movies.jpg": {
@@ -36,15 +36,15 @@
     "type": "movie"
   },
   "crunchyroll/comedy.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/405920/backgrounds/6181af0258553.jpg",
-    "id": "tt13706018",
-    "name": "SPY x FAMILY",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/464977/backgrounds/6855ba673a078.jpg",
+    "id": "tt38976904",
+    "name": "The Daily Life of a Part-time Torturer",
     "type": "series"
   },
   "crunchyroll/fantasy.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/424536/backgrounds/64e6cbe29d9c0.jpg",
-    "id": "tt22248376",
-    "name": "Frieren: Beyond Journey's End",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/473154/backgrounds/6adac866013b3.jpg",
+    "id": "tt39395275",
+    "name": "Dragon Ball Super: Beerus",
     "type": "series"
   },
   "crunchyroll/top-10.jpg": {
@@ -108,9 +108,9 @@
     "type": "movie"
   },
   "hbomax/originals.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/467092/backgrounds/6ac199bc68f3f.jpg",
-    "id": "tt37972251",
-    "name": "WAR (2026)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/399731/backgrounds/61a1584479b19.jpg",
+    "id": "tt11041332",
+    "name": "Yellowjackets",
     "type": "series"
   },
   "hbomax/sci-fi.jpg": {
@@ -150,21 +150,21 @@
     "type": "series"
   },
   "heroes/hulu.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/204951-4.jpg",
-    "id": "tmdb:96499",
-    "name": "CMA Awards",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/410743/backgrounds/6ac15c4dd7a7c.jpg",
+    "id": "tt11231226",
+    "name": "Reasonable Doubt (2022)",
     "type": "series"
   },
   "heroes/netflix.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/76779-1.jpg",
-    "id": "tt0185103",
-    "name": "WWE Raw",
+    "background": "https://image.tmdb.org/t/p/original/d7iRfSCWnJZpB05wLEvedMMNDzA.jpg",
+    "id": "tt50828463",
+    "name": "Nate Bargatze: Good for Nathan",
     "type": "series"
   },
   "heroes/paramount.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/463433/backgrounds/6aa96cc698ac1.jpg",
-    "id": "tt36849871",
-    "name": "Marshals",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/75897-11.jpg",
+    "id": "tt0121955",
+    "name": "South Park",
     "type": "series"
   },
   "heroes/peacock.jpg": {
@@ -180,10 +180,10 @@
     "type": "series"
   },
   "heroes/shudder.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "id": "tt32358390",
-    "name": "The Cycle",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
+    "id": "tt6289132",
+    "name": "The Boulet Brothers' Dragula",
+    "type": "series"
   },
   "hulu/animation.jpg": {
     "background": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
@@ -252,9 +252,9 @@
     "type": "series"
   },
   "paramount/action.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
-    "id": "tt1745960",
-    "name": "Top Gun: Maverick",
+    "background": "https://image.tmdb.org/t/p/original/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "id": "tt0103064",
+    "name": "Terminator 2: Judgment Day",
     "type": "movie"
   },
   "paramount/comedy.jpg": {
@@ -276,15 +276,15 @@
     "type": "series"
   },
   "paramount/sci-fi.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-    "id": "tt5090568",
-    "name": "Transformers: Rise of the Beasts",
+    "background": "https://image.tmdb.org/t/p/original/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+    "id": "tt2109248",
+    "name": "Transformers: Age of Extinction",
     "type": "movie"
   },
   "paramount/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-    "id": "tt29356163",
-    "name": "PAW Patrol: The Dino Movie",
+    "background": "https://image.tmdb.org/t/p/original/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
+    "id": "tt24326458",
+    "name": "One Mile: Chapter One",
     "type": "movie"
   },
   "peacock/comedy.jpg": {
@@ -294,9 +294,9 @@
     "type": "movie"
   },
   "peacock/crime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/75692-2.jpg",
-    "id": "tt0203259",
-    "name": "Law & Order: Special Victims Unit",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/248742-21.jpg",
+    "id": "tt1839578",
+    "name": "Person of Interest",
     "type": "series"
   },
   "peacock/drama.jpg": {
@@ -354,9 +354,9 @@
     "type": "movie"
   },
   "prime/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-    "id": "tt24818230",
-    "name": "Madden",
+    "background": "https://image.tmdb.org/t/p/original/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "id": "tt39316936",
+    "name": "Clashing Through the Snow",
     "type": "movie"
   },
   "shudder/top-10.jpg": {
