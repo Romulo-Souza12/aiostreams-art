@@ -6,9 +6,9 @@
     "type": "movie"
   },
   "appletv/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
-    "id": "tt32213169",
-    "name": "Way of the Warrior Kid",
+    "background": "https://image.tmdb.org/t/p/original/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+    "id": "tt6262770",
+    "name": "Tenzing",
     "type": "movie"
   },
   "appletv/sci-fi.jpg": {
@@ -18,9 +18,9 @@
     "type": "series"
   },
   "appletv/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
-    "id": "tt0068359",
-    "name": "A Charlie Brown Thanksgiving",
+    "background": "https://image.tmdb.org/t/p/original/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "id": "tt32213169",
+    "name": "Way of the Warrior Kid",
     "type": "movie"
   },
   "crunchyroll/action.jpg": {
@@ -36,9 +36,9 @@
     "type": "movie"
   },
   "crunchyroll/comedy.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/464977/backgrounds/6855ba673a078.jpg",
-    "id": "tt38976904",
-    "name": "The Daily Life of a Part-time Torturer",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/414096/backgrounds/634dc1ea72b41.jpg",
+    "id": "tt16764368",
+    "name": "Urusei Yatsura (2022)",
     "type": "series"
   },
   "crunchyroll/fantasy.jpg": {
@@ -48,9 +48,9 @@
     "type": "series"
   },
   "crunchyroll/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
-    "id": "tt43691353",
-    "name": "Overgeared",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/473642/backgrounds/6a2d7204ebd93.jpg",
+    "id": "tt43691412",
+    "name": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
     "type": "series"
   },
   "disney/action.jpg": {
@@ -126,21 +126,21 @@
     "type": "movie"
   },
   "heroes/appletv.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/430654/backgrounds/6abbbf9a221ae.jpg",
-    "id": "tt26598805",
-    "name": "Nocturne",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/455562/backgrounds/6921780c3b5fc.jpg",
+    "id": "tt31710249",
+    "name": "Stick",
     "type": "series"
   },
   "heroes/crunchyroll.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/331753/backgrounds/5f28da5d508c9.jpg",
-    "id": "tt7441658",
-    "name": "Black Clover",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/478752/backgrounds/6abcd30f6fb5e.jpg",
+    "id": "tt43691353",
+    "name": "Overgeared",
     "type": "series"
   },
   "heroes/disney.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/426606/backgrounds/6aad14d25dfd9.jpg",
-    "id": "tt23112594",
-    "name": "VisionQuest",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/79590/backgrounds/66f4c617a35f7.jpg",
+    "id": "tt0463398",
+    "name": "Dancing with the Stars",
     "type": "series"
   },
   "heroes/hbomax.jpg": {
@@ -174,16 +174,16 @@
     "type": "series"
   },
   "heroes/prime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/series/356992/backgrounds/62030538.jpg",
-    "id": "tt5622316",
-    "name": "The Chosen",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/424855/backgrounds/6a6477c6b763b.jpg",
+    "id": "tt18224594",
+    "name": "Blade Runner 2099",
     "type": "series"
   },
   "heroes/shudder.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
-    "id": "tt6289132",
-    "name": "The Boulet Brothers' Dragula",
-    "type": "series"
+    "background": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+    "id": "tt36893729",
+    "name": "Ice Cream Man",
+    "type": "movie"
   },
   "hulu/animation.jpg": {
     "background": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
@@ -204,9 +204,9 @@
     "type": "movie"
   },
   "hulu/horror.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/cL519xfEtR8NzE6UmUHyTpNO68I.jpg",
-    "id": "tt17526714",
-    "name": "The Substance",
+    "background": "https://image.tmdb.org/t/p/original/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
+    "id": "tt7784604",
+    "name": "Hereditary",
     "type": "movie"
   },
   "hulu/top-10.jpg": {
@@ -276,15 +276,15 @@
     "type": "series"
   },
   "paramount/sci-fi.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
-    "id": "tt2109248",
-    "name": "Transformers: Age of Extinction",
+    "background": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+    "id": "tt5090568",
+    "name": "Transformers: Rise of the Beasts",
     "type": "movie"
   },
   "paramount/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
-    "id": "tt24326458",
-    "name": "One Mile: Chapter One",
+    "background": "https://image.tmdb.org/t/p/original/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+    "id": "tt0093748",
+    "name": "Planes, Trains and Automobiles",
     "type": "movie"
   },
   "peacock/comedy.jpg": {
@@ -324,9 +324,9 @@
     "type": "movie"
   },
   "prime/comedy.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
-    "id": "tt43655467",
-    "name": "Ali G: Who Iz I?",
+    "background": "https://image.tmdb.org/t/p/original/g6uEVedSBXsZ3QuXKP4WDCeSsOy.jpg",
+    "id": "tt32565993",
+    "name": "The Sheep Detectives",
     "type": "movie"
   },
   "prime/drama.jpg": {
@@ -336,9 +336,9 @@
     "type": "movie"
   },
   "prime/horror.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
-    "id": "tt32881442",
-    "name": "Monkey\u2019s Magic Merry Go Round",
+    "background": "https://image.tmdb.org/t/p/original/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
+    "id": "tt13560574",
+    "name": "X",
     "type": "movie"
   },
   "prime/originals.jpg": {
@@ -360,9 +360,9 @@
     "type": "movie"
   },
   "shudder/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
-    "id": "tt36893729",
-    "name": "Ice Cream Man",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
+    "id": "tt6289132",
+    "name": "The Boulet Brothers' Dragula",
+    "type": "series"
   }
 }
