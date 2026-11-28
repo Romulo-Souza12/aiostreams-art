@@ -6,9 +6,9 @@
     "type": "movie"
   },
   "appletv/drama.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
-    "id": "tt6262770",
-    "name": "Tenzing",
+    "background": "https://image.tmdb.org/t/p/original/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+    "id": "tt32213169",
+    "name": "Way of the Warrior Kid",
     "type": "movie"
   },
   "appletv/sci-fi.jpg": {
@@ -18,9 +18,9 @@
     "type": "series"
   },
   "appletv/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/1JL6mDxYRauwv81bLupSZczC39M.jpg",
-    "id": "tt32213169",
-    "name": "Way of the Warrior Kid",
+    "background": "https://image.tmdb.org/t/p/original/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+    "id": "tt0068359",
+    "name": "A Charlie Brown Thanksgiving",
     "type": "movie"
   },
   "crunchyroll/action.jpg": {
@@ -36,21 +36,21 @@
     "type": "movie"
   },
   "crunchyroll/comedy.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/414096/backgrounds/634dc1ea72b41.jpg",
-    "id": "tt16764368",
-    "name": "Urusei Yatsura (2022)",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/464977/backgrounds/6855ba673a078.jpg",
+    "id": "tt38976904",
+    "name": "The Daily Life of a Part-time Torturer",
     "type": "series"
   },
   "crunchyroll/fantasy.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/473154/backgrounds/6adac866013b3.jpg",
-    "id": "tt39395275",
-    "name": "Dragon Ball Super: Beerus",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/424536/backgrounds/64e6cbe29d9c0.jpg",
+    "id": "tt22248376",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series"
   },
   "crunchyroll/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/473642/backgrounds/6a2d7204ebd93.jpg",
-    "id": "tt43691412",
-    "name": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/453028/backgrounds/66dabf750e60d.jpg",
+    "id": "tt33334216",
+    "name": "The Exiled Heavy Knight Knows How to Game the System",
     "type": "series"
   },
   "disney/action.jpg": {
@@ -174,16 +174,16 @@
     "type": "series"
   },
   "heroes/prime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/424855/backgrounds/6a6477c6b763b.jpg",
+    "background": "https://artworks.thetvdb.com/banners/v4/series/424855/backgrounds/6b07816cd33a1.jpg",
     "id": "tt18224594",
     "name": "Blade Runner 2099",
     "type": "series"
   },
   "heroes/shudder.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
-    "id": "tt36893729",
-    "name": "Ice Cream Man",
-    "type": "movie"
+    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
+    "id": "tt6289132",
+    "name": "The Boulet Brothers' Dragula",
+    "type": "series"
   },
   "hulu/animation.jpg": {
     "background": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
@@ -276,15 +276,15 @@
     "type": "series"
   },
   "paramount/sci-fi.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-    "id": "tt5090568",
-    "name": "Transformers: Rise of the Beasts",
+    "background": "https://image.tmdb.org/t/p/original/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+    "id": "tt1340138",
+    "name": "Terminator Genisys",
     "type": "movie"
   },
   "paramount/top-10.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
-    "id": "tt0093748",
-    "name": "Planes, Trains and Automobiles",
+    "background": "https://image.tmdb.org/t/p/original/qBSWU70e99BH6t06DsNjzQovyyK.jpg",
+    "id": "tt46076014",
+    "name": "The JLO Show",
     "type": "movie"
   },
   "peacock/comedy.jpg": {
@@ -294,9 +294,9 @@
     "type": "movie"
   },
   "peacock/crime.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/fanart/original/248742-21.jpg",
-    "id": "tt1839578",
-    "name": "Person of Interest",
+    "background": "https://artworks.thetvdb.com/banners/fanart/original/75692-2.jpg",
+    "id": "tt0203259",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series"
   },
   "peacock/drama.jpg": {
@@ -336,9 +336,9 @@
     "type": "movie"
   },
   "prime/horror.jpg": {
-    "background": "https://image.tmdb.org/t/p/original/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
-    "id": "tt13560574",
-    "name": "X",
+    "background": "https://image.tmdb.org/t/p/original/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+    "id": "tt32881442",
+    "name": "Monkey\u2019s Magic Merry Go Round",
     "type": "movie"
   },
   "prime/originals.jpg": {
@@ -360,9 +360,9 @@
     "type": "movie"
   },
   "shudder/top-10.jpg": {
-    "background": "https://artworks.thetvdb.com/banners/v4/series/323152/backgrounds/6139215c2cd4d.jpg",
-    "id": "tt6289132",
-    "name": "The Boulet Brothers' Dragula",
-    "type": "series"
+    "background": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+    "id": "tt36893729",
+    "name": "Ice Cream Man",
+    "type": "movie"
   }
 }
